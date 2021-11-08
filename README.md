@@ -1,2 +1,2 @@
 # CT-HTML-CSS-Website
-This is my project website for pre-work.
+This is my website for Coding Temple pre-work project.
